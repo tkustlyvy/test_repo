@@ -1,2 +1,3 @@
-# test_repo
-devops_project_course
+# maven-project
+
+Simple Maven Project
